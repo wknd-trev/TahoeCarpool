@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-project",
+  "version": "1.0.0",
+  "description": "Tahoe Carpool",
+  "main": "homepage.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wknd-trev/TahoeCarpool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wknd-trev/TahoeCarpool/issues"
+  },
+  "homepage": "https://github.com/wknd-trev/TahoeCarpool#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
