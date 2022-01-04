@@ -1,0 +1,33 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Baloo 2', cursive;   
+}
+
+h2 {
+    color:rgba(25, 166, 96, 0.697);
+}
+
+footer {
+    background-color: rgb(173, 210, 212);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-color: rgb(173, 210, 212);
+    color: white;
+    margin: 0;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-color:rgb(195, 198, 161)
+}

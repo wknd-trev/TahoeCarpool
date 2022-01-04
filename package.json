@@ -2,7 +2,7 @@
   "name": "portfolio-project",
   "version": "1.0.0",
   "description": "Tahoe Carpool",
-  "main": "homepage.html",
+  "main": "index.html",
   "scripts": {
     "start": "npm run lite",
     "lite": "lite-server",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/wknd-trev/TahoeCarpool.git"
   },
-  "author": "",
+  "author": "Trevor Downs",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wknd-trev/TahoeCarpool/issues"
